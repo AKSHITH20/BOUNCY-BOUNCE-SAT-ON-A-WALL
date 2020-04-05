@@ -1,1 +1,2 @@
-# BOUNCY-BOUNCE-SAT-ON-A-WALL
+# staticSquare
+A static square made using Matter.js physics engine
